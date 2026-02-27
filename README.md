@@ -1,53 +1,37 @@
-# 📁 Scripts SQL Profesionales para Proyectos del Mundo Real
+# 🚀 Senior Database Administrator | Data Engineer
 
->¡Hola, comunidad de datos! 👋  
-Soy **Wily Duvan Villamil Rey**, Administrador de Bases de Datos e Ingeniero de Datos Junior 💻📊
-
->En este espacio comparto fragmentos de código **usados en entornos reales**, que han generado valor para organizaciones como:
-
->🏢 **Alkosto** &nbsp;|&nbsp; 🏦 **BTG Pactual** &nbsp;|&nbsp; 🎓 **CEIPA** &nbsp;|&nbsp; ❤️ **Fundación Cardioinfantil**  
-🛒 **Novaventa** &nbsp;|&nbsp; 🚈 **Metro de Medellín**, entre otras.
+> **Garantizando la Continuidad de Negocio y la Escalabilidad de Datos.** Especialista en diseño, optimización y administración de entornos críticos (HA/DRP) y pipelines de datos de alto volumen.
 
 ---
 
-## 🧰 ¿Qué encontrarás aquí?
+### 👤 Perfil Profesional
+Soy **Wily Duvan Villamil Rey**, radicado en Medellín. Mi enfoque es la **Arquitectura y Gobernanza de Datos**, especializado en maximizar el rendimiento de sistemas transaccionales y analíticos. He aportado soluciones técnicas en organizaciones de alto impacto como:
 
->🔹 Scripts SQL para **limpieza y estandarización de datos**  
-🔹 Validaciones de **estructura y calidad**  
-🔹 Manejo de **duplicados**  
-🔹 Conversión de **tipos de datos y fechas**  
-🔹 Gestión avanzada de **bloqueos en Oracle**  
-🔹 Buenas prácticas en desarrollo **ETL**
+**🏢 Alkosto | 🏦 BTG Pactual | 🚈 Metro de Medellín | ❤️ Fundación Cardioinfantil | 🛒 Novaventa | 🎓 CEIPA**
+
+* **LinkedIn:** [linkedin.com/in/wily-rey-dba](https://www.linkedin.com/in/wily-rey-dba)
+* **Email:** willyvillamil861@gmail.com
+---
+### 🏆 Logros de Impacto Técnico (Senior Metrics)
+
+* **Optimización de Performance:** Reducción del **30% en los tiempos de respuesta** en producción mediante reingeniería de índices y optimización de planes de ejecución.
+  
+* **Continuidad de Negocio:** Implementación de estrategias de **Alta Disponibilidad (Always On / Replication)** asegurando un uptime del 99.9%.
+  
+* **Automatización & Eficiencia:** Diseño de pipelines ETL en **SSIS y Python** que eliminaron procesos manuales, reduciendo el error operativo en un **40%**.
+  
+* **Migraciones Zero-Downtime:** Liderazgo en migraciones de datos heterogéneos asegurando el **100% de integridad**.
 
 ---
 
 # 🚀 Stack Tecnológico  
->🎯 Rol: **Administrador de Bases de Datos Junior**
 
->💾 SQL Server   •   🐘 PostgreSQL   •   🏛️ Oracle   •   🐬 MySQL Workbench
-🐿️ DBeaver   •   🛠️ HeidiSQL   •   📊 SQL Developer
-☁️ Azure   •   📈 Grafana
-🧾 Jira   •   🛡️ GLPI
-🔍 Power Query   •   🔁 ETL
-🐙 GitHub
-
----
-
-## 🧠 ¿Qué obtienes trabajando conmigo?
-
-> ✔️ Scripts profesionales listos para entornos reales  
-✔️ Optimización de consultas y procesos  
-✔️ Mejora continua en la calidad de datos  
-✔️ Enfoque en escalabilidad y rendimiento  
-✔️ Soporte en procesos ETL y analítica empresarial
-
----
-
-## 🎯 Mi propósito
-
-> Brindar soluciones **claras, eficientes y escalables**, útiles tanto en el **mundo académico** como en el **sector empresarial**.  
-> Mi enfoque: **optimizar procesos, prevenir errores y mejorar la calidad de los datos desde la base**.
-
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Bases de Datos** | SQL Server (2016-2022), PostgreSQL, Oracle (19c), MongoDB, MySQL. |
+| **Cloud & Data** | Microsoft Azure (Data Factory, Managed Instance), AWS RDS, SSIS, Python. |
+| **Observabilidad** | Grafana, Prometheus, SQL Profiler, CloudWatch, Zabbix. |
+| **Infraestructura** | Git, GitHub Actions, Docker, Linux (RHEL/Ubuntu), Jira, GLPI. |
 ---
 
 ## 🔐 Otorgamiento de privilegios en el esquema `PRDN`
@@ -543,8 +527,6 @@ Si algún script te resultó útil o interesante, ¡me encantaría saberlo!
 
 > _"La calidad de los datos es la base de decisiones inteligentes."_
 
-📫 Contacto directo: **willyvillamil861@gmail.com**  
-🔗 LinkedIn: [www.linkedin.com/in/wily-rey-administrador-bases-datos-junior](https://www.linkedin.com/in/wily-rey-administrador-bases-datos-junior)
 
 ⭐ Si te gustó el contenido, considera darle una estrella al repositorio. ¡Tu apoyo impulsa más aportes!
 
